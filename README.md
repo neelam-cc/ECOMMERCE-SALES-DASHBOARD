@@ -22,4 +22,7 @@ Source:https://mavenanalytics.io
 *Customer and Product insights
 *Comparative Analysis
 
+6. Screenshot / Demo :
+Dashboard : https://github.com/neelam-cc/ECOMMERCE-SALES-DASHBOARD/blob/main/Monthly%20Sales%20Report.png
+
 
